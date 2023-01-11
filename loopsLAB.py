@@ -9,7 +9,7 @@ for firstRange in range (45,210) :
 
 
 product = int(input("what is the product of 7 *24 ? "))
-while product != -1 :
+while product != 168 :
  if product== 168 :
     print ("You answered this Question correctly")
     break
